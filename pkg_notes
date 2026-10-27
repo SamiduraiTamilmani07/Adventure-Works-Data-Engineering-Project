@@ -1,0 +1,21 @@
+#Label AW_Project_1.0.0
+
+#AW_Project_102726
+
+#Files
+./data/AdventureWorks_Calendar.csv
+./data/AdventureWorks_Customers.csv
+./data/AdventureWorks_Product_Categories.csv
+./data/AdventureWorks_Product_Subcategories.csv
+./data/AdventureWorks_Products.csv
+./data/AdventureWorks_Returns.csv
+./data/AdventureWorks_Sales_2015.csv
+./data/AdventureWorks_Sales_2016.csv
+./data/AdventureWorks_Sales_2017.csv
+./data/AdventureWorks_Territories.csv
+
+#Folders
+./data
+
+
+
